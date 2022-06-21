@@ -28,4 +28,4 @@ Presentation
 
 Team
 
-    [@RicardoFerreira](https://github.com/RicardoAfonsoFerreira)
+    *Ricardo Ferreira [@RicardoFerreira](https://github.com/RicardoAfonsoFerreira)
